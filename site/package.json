@@ -1,0 +1,13 @@
+{
+  "name": "deepstream-preso",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "deepstream.io-client-js": "^0.2.21",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "net": "^1.0.2",
+    "webpack": "^1.11.0"
+  }
+}
