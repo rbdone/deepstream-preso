@@ -1,7 +1,5 @@
 .idea/
 
-server/node_modules/
-
-site/node_modules/
-site/app/__bundle__/
-site/records.json
+*/node_modules/
+*/app/__bundle__/
+*/records.json

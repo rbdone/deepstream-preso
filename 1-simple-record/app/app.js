@@ -3,6 +3,7 @@ var deepstream = require('deepstream.io-client-js');
 
 function init() {
     // Initial setup
+    //var ds = deepstream('cb-deepstream.cloudapp.net:6020').login();
     var ds = deepstream('localhost:6020').login();
     var record = ds.record.getRecord('someUser');
 

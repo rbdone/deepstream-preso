@@ -26,7 +26,7 @@ module.exports = {
             { test: /\.eot$/,    loader: "file-loader?prefix=font/" },
             { test: /\.ttf$/,    loader: "file-loader?prefix=font/" },
             { test: /\.svg$/,    loader: "file-loader?prefix=font/" },
-            { test: /\.jsx?$/,   loader: 'jsx-loader?harmony', exclude: [/node_modules/]},
+            { test: /\.jsx?$/,   loader: 'jsx-loader?harmony', exclude: [/node_modules/]}
         ]
     },
     amd: { jQuery: true },
