@@ -1,5 +1,5 @@
 {
-  "name": "deepstream-preso",
+  "name": "deepstream-preso-site",
   "dependencies": {
     "bootstrap": "^3.3.5",
     "deepstream.io-client-js": "^0.2.21",

@@ -1,0 +1,6 @@
+{
+  "name": "deepstream-preso-server",
+  "dependencies": {
+    "deepstream.io": "^0.4.1"
+  }
+}
